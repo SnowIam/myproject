@@ -1,0 +1,3 @@
+creat isgamestarted bool variable to control the game.such as the variable should switch on start and end of game.
+Create the countdown timer and in start and total game time - eitable from inspector.
+rotate a cube using arrow keys in 3d space.hold space to gradually increase object size adn decrease on space release.
